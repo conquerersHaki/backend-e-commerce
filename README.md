@@ -19,26 +19,25 @@ A command-line application that let's you use the command line to track your e-c
 
 ## About
 
-This application makes it easier and quicker to generate a README.md file for any project the user is currently working on, or to improve a README file for a project that has already been created.
+This application is a backend information storage for e-commerce, making it easy to edit, delete and alter information quickly. It's tested with Insomnia Core.
 
 ---
 
 ### User Story
 
 ```
-AS A developer
-I WANT a README generator
-SO THAT can quickly create a professional README for a project
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 ```
 
 ## Visuals:
 
-![screenshot 1](./images/readmeSS1.jpg)
-![screenshot 2](./images/readmeSS2.jpg)
-![screenshot 2](./images/readmeSS3.jpg)
+![screenshot 1](./Develop/images/ss1.jpg)
+![screenshot 2](./Develop/images/ss2.jpg)
+![screenshot 2](./Develop/images/ss3.jpg)
 
-YouTube walkthrough of this application:
-https://www.youtube.com/watch?v=PYcEGn0UhAELinks
+Walkthrough video of this application: https://drive.google.com/file/d/19zzGNp8tDBi-jmUzyjV14pI4Qvs8AIqq/view?usp=sharing
 
 ---
 
